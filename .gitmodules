@@ -1,0 +1,3 @@
+[submodule "labs"]
+	path = labs
+	url = https://github.com/aseldawy/CS167.git
