@@ -1,0 +1,3 @@
+Q1. new IsEven().apply(5)
+Q2. The program does not compile after adding "base = 0;"
+Q3. Error msg: java: local variables referenced from a lambda expression must be final or effectively final

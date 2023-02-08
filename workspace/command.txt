@@ -1,0 +1,2 @@
+# Replace <UCRNetID> with your UCR Net ID, not student ID.
+mvn archetype:generate "-DgroupId=edu.ucr.cs.cs167.btran117" "-DartifactId=btran117_lab5" "-DarchetypeArtifactId=maven-archetype-quickstart" "-DinteractiveMode=false"
